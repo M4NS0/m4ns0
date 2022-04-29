@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-* 🔭 I’m currently working on Agacode
-* 🌱 I’m currently learning React
-* ⚡ Fun fact: I'm a former Psychologist
+
 
 <div align="center">
   <a href="https://github.com/m4ns0">
@@ -24,6 +22,7 @@
   <img align="center" alt="Bootstrap" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Java" height="25" width="25" src="https://user-images.githubusercontent.com/46682639/120317610-3cceff80-c2b5-11eb-89b3-7ed434461e1f.png">
   <img align="center" alt="Csharp" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
+  <img align="center" alt="Rafa-Python" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="InteliJ" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
   <img align="center" alt="AndroidStudio" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="VSCode" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -53,3 +52,8 @@
   <a href="https://www.linkedin.com/in/m4ns0/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+* 🔭 I’m currently working on Agacode
+* 🌱 I’m currently learning React
+* ⚡ Fun fact: I'm a former Psychologist
