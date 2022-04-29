@@ -37,9 +37,9 @@
   <img align="center" alt="GitLab" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Jira" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
   <img align="center" alt="Linux" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ubuntu" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
-  <img align="center" alt="Debian" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-  <img align="center" alt="Bash" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> 
+  <img align="center" alt="Ubuntu" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Debian" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+  <img align="center" alt="Bash" height="25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"> 
 
 </div>
 
