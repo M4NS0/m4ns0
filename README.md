@@ -30,6 +30,6 @@
 </div>
 
 <br><br>
-* 🔭 I’m currently working on Agacode
+* 🔭 I’m currently working on Agacode/Merytu
 * 🌱 I’m currently learning React
 * ⚡ Fun fact: I'm a former Psychologist
