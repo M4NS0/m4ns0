@@ -30,5 +30,5 @@
 </div>
 
 <br><br>
-* 🔭 I’m currently working on Dell Lead
+* 🔭 I’m currently working at Dell Lead
 * ⚡ Fun fact: I'm a former Psychologist
