@@ -30,5 +30,5 @@
 </div>
 
 <br><br>
-* 🔭 I’m currently working on Agacode/Merytu
+* 🔭 I’m currently working on Dell Lead
 * ⚡ Fun fact: I'm a former Psychologist
